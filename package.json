@@ -1,0 +1,15 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "related food details",
+  "main": "index.js",
+  "scripts": {
+    "ng": "ng",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "food"
+  ],
+  "author": "kalki",
+  "license": "ISC"
+}
