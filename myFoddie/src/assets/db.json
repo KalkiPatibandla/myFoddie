@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "existinguser",
+      "email": "existing@example.com",
+      "password": "ExistingPassword1!",
+      "id": "2785"
+    },
+    {
+      "id": "dd8b",
+      "username": "kalkipatibana",
+      "email": "kalki@hhhhh.com",
+      "password": "Sd$lm1234"
+    },
+    {
+      "id": "10d7",
+      "username": "kalkipatibandla",
+      "email": "kalki@hhh.com",
+      "password": "Sd$lm1234"
+    }
+  ]
+}
